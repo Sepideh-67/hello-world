@@ -1,2 +1,2 @@
 # hello-world
-Learning Cit Hub
+Learning Git Hub
